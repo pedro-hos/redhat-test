@@ -1,0 +1,6 @@
+com/redhat/test/pgm3/config/RESTActivator.class
+com/redhat/test/pgm3/service/Service.class
+com/redhat/test/pgm3/model/Person_.class
+com/redhat/test/pgm3/model/Person.class
+com/redhat/test/pgm3/service/impl/PersonService.class
+com/redhat/test/pgm3/rest/PersonResource.class
